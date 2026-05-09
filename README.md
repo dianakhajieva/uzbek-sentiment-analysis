@@ -32,7 +32,7 @@ XLM-RoBERTa achieved the best overall performance among all evaluated models.
 ## Research Paper
 The full research paper is available in:
 ## Research Paper
-[View Research Paper](research_paper/paper.pdf)
+[View Research Paper](uzbek-sentiment-analysis/research_paper/paper.pdf)
 
 ## Visualizations
 

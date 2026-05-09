@@ -24,14 +24,15 @@ The final transformer model was fine-tuned using:
 - PyTorch
 
 ## HuggingFace Model
-https://huggingface.co/Dyanne05/xlmr-uzbek-sentiment
+[HuggingFace Model](https://huggingface.co/Dyanne05/xlmr-uzbek-sentiment)
 
 ## Results
 XLM-RoBERTa achieved the best overall performance among all evaluated models.
 
 ## Research Paper
 The full research paper is available in:
-research_paper/paper.pdf
+## Research Paper
+[View Research Paper](research_paper/paper.pdf)
 
 ## Visualizations
 

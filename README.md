@@ -36,10 +36,10 @@ research_paper/paper.pdf
 ## Visualizations
 
 ### Evaluation Metrics
-![Evaluation Metrics](/figures/evaluation_metrics.png)
+![Evaluation Metrics](uzbek-sentiment-analysis/figures/evaluation_metrics.png)
 
 ### XLM-RoBERTa Confusion Matrix
-![XLM-R Confusion Matrix](/figures/xlmr_confusion.png)
+![XLM-R Confusion Matrix](uzbek-sentiment-analysis/figures/xlmr_confusion.png)
 
 ## Technologies
 - Python
